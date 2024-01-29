@@ -1,0 +1,1 @@
+A Simple Docker file for PHP Myadmin and MYSQL for Quick Applicaiton Development / Testing
